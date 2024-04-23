@@ -1,0 +1,1 @@
+<?php class OPENWEATHERMAP { PUBLIC FUNCTION __construct() { } } ?>
