@@ -1,0 +1,1 @@
+<?php COMPONENT::init(ARRAY(COMPONENT::MASTER)); ?>

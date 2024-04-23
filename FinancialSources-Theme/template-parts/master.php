@@ -1,0 +1,1 @@
+<?php COMPONENT::init(COMPONENT::MASTER); ?>
