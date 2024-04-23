@@ -3,8 +3,11 @@
 Proyecto: Quantum - Sistema Dinámico de WordPress, para Gestión Modular de Páginas Web
 
 /App -> Contiene la lógica de la aplicación
+
 /Denia-Theme -> Contiene tema de Wordpress enfocado en una pagina web donde poder añadir y promocionar comercios (previo pago), actividades y todo tipo de locales o informacion relevante de una localidad. 
+
 /FinancialSources-Theme -> Contiene tema de Wordpress enfocado en una pagina web donde poder encontrar recursos, enlaces, informacion relevante para poder conseguir ingresos pasivos.
+
 
 Resumen:
 - El proyecto se basa en la carga dinámica de módulos y secciones a través de un script integrado en functions.php, se centraliza el acceso a módulos, secciones y componentes de forma predefinida, posibilitando la creación de múltiples sitios web con comportamiento similar pero personalizado. Mediante técnicas avanzadas de desarrollo en WordPress y estándares modernos de diseño web, como PHP, HTML5, CSS3, Vanilla JavaScript y Bootstrap, para garantizar una arquitectura modular que facilita la gestión y personalización eficiente, así como un diseño responsive/mobile first y una experiencia de usuario óptima en todos los dispositivos. Este enfoque aporta un código unitario, ágil y dinámico que simplifica la gestión y mantenimiento de los sitios web.
